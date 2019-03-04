@@ -1,5 +1,9 @@
 print('Hello')
 print('Renaldy')
+print('asep')
+print('Nama saya Warren')
+print('Nama saya Baron')
+print('Glen')
 print('andi')
 print('Nama saya Cornellius')
 
