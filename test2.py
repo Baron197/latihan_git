@@ -1,3 +1,5 @@
 print('Hello')
 print ('asep')
+print('andi')
+print('Nama saya Cornellius')
 print('Nama saya Baron')
