@@ -1,5 +1,6 @@
 print('Hello')
 <<<<<<< HEAD
+print('iqbal')
 print ('asep')
 =======
 <<<<<<< HEAD
