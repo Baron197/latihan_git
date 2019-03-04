@@ -1,4 +1,5 @@
 print('Hello')
-print('Nama sama Glen')
+print('Glen')
+print('andi')
 print('Nama saya Cornellius')
 print('Nama saya Baron')
